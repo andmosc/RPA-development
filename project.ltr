@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored />
+    <Breakpoints />
+    <BreakpointLines />
+    <Git>
+        <PathToRepo>D:\dev\PRIMO\Работа с Excel\.git\</PathToRepo>
+        <RemoteName>RPA-development</RemoteName>
+    </Git>
+    <LastOpenedItems>
+        <string>D:\dev\PRIMO\Работа с Excel\ExcelApp.ltw</string>
+        <string>D:\dev\PRIMO\Работа с Excel\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>

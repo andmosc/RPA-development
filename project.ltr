@@ -3,13 +3,18 @@
     <WatchScripts />
     <Ignored />
     <Breakpoints />
-    <BreakpointLines />
+    <BreakpointLines>
+        <BreakpointLine>
+            <WFPath>D:\dev\PRIMO\Работа с Excel\CalcTemperature.ltw</WFPath>
+            <Line>11</Line>
+        </BreakpointLine>
+    </BreakpointLines>
     <Git>
         <PathToRepo>D:\dev\PRIMO\Работа с Excel\.git\</PathToRepo>
         <RemoteName>RPA-development</RemoteName>
     </Git>
     <LastOpenedItems>
-        <string>D:\dev\PRIMO\Работа с Excel\ExcelApp.ltw</string>
         <string>D:\dev\PRIMO\Работа с Excel\Main.ltw</string>
+        <string>D:\dev\PRIMO\Работа с Excel\ExcelApp.ltw</string>
     </LastOpenedItems>
 </LTProjectResources>

@@ -83,7 +83,7 @@
                 <Value xsi:type="xsd:boolean">false</Value>
             </SerializationItem>
         </Properties>
-        <IsBreakpoint>false</IsBreakpoint>
+        <IsBreakpoint>true</IsBreakpoint>
         <IsIgnore>false</IsIgnore>
         <Components>
             <SerializationComponent xsi:type="SerializationContainer">
@@ -1198,7 +1198,7 @@ curentTemperature = int.Parse(listTemeratureIn[index]);</Value>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
                                 <Name>Range</Name>
-                                <Value xsi:type="xsd:string">"B3:B*"</Value>
+                                <Value xsi:type="xsd:string">"B3:C" + (count - 1)</Value>
                             </SerializationItem>
                             <SerializationItem>
                                 <IsListValue>false</IsListValue>
@@ -1949,9 +1949,9 @@ avgTemp = (int)temp.Average();
         <ScriptVariable>
             <Name>listTemeratureIn</Name>
             <Group />
-            <DefaultValue xsi:type="xsd:string">new List&lt;string&gt;() {"+20°","+27°","+25°","+28°","+26°","+22°"}</DefaultValue>
+            <DefaultValue xsi:type="xsd:string">new List&lt;string&gt;() {"+30°","+27°","+25°","+28°","+26°","+22°"}</DefaultValue>
             <DataTypeString>List&lt;String&gt;</DataTypeString>
-            <Direction>IN</Direction>
+            <Direction>IN_OUT</Direction>
         </ScriptVariable>
         <ScriptVariable>
             <Name>listCityIn</Name>

@@ -2,7 +2,12 @@
 <LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <WatchScripts />
     <Ignored />
-    <Breakpoints />
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>D:\dev\PRIMO\Работа с Excel\Main.ltw</Key>
+            <Value>852a77a1-16ea-4665-b5e2-f13fbe302dc8</Value>
+        </KeyValueItem>
+    </Breakpoints>
     <BreakpointLines>
         <BreakpointLine>
             <WFPath>D:\dev\PRIMO\Работа с Excel\CalcTemperature.ltw</WFPath>
@@ -16,5 +21,6 @@
     <LastOpenedItems>
         <string>D:\dev\PRIMO\Работа с Excel\Main.ltw</string>
         <string>D:\dev\PRIMO\Работа с Excel\ExcelApp.ltw</string>
+        <string>D:\dev\PRIMO\Работа с Excel\DataBase.ltw</string>
     </LastOpenedItems>
 </LTProjectResources>

@@ -4,8 +4,16 @@
     <Ignored />
     <Breakpoints>
         <KeyValueItem>
-            <Key>D:\dev\PRIMO\Работа с Excel\Main.ltw</Key>
-            <Value>852a77a1-16ea-4665-b5e2-f13fbe302dc8</Value>
+            <Key>D:\dev\PRIMO\Работа с Excel\Result.ltw</Key>
+            <Value>b3c520f2-2f30-4967-877f-812611698c78</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>D:\dev\PRIMO\Работа с Excel\Result.ltw</Key>
+            <Value>8620bf98-f312-43c3-81d9-03c51eb310a7</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>D:\dev\PRIMO\Работа с Excel\Result.ltw</Key>
+            <Value>7fee65fb-1129-4351-bfc8-74e43fab4c82</Value>
         </KeyValueItem>
     </Breakpoints>
     <BreakpointLines>
@@ -22,5 +30,6 @@
         <string>D:\dev\PRIMO\Работа с Excel\Main.ltw</string>
         <string>D:\dev\PRIMO\Работа с Excel\ExcelApp.ltw</string>
         <string>D:\dev\PRIMO\Работа с Excel\DataBase.ltw</string>
+        <string>D:\dev\PRIMO\Работа с Excel\Result.ltw</string>
     </LastOpenedItems>
 </LTProjectResources>

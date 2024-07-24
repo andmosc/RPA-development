@@ -83,7 +83,7 @@
                 <Value xsi:type="xsd:boolean">false</Value>
             </SerializationItem>
         </Properties>
-        <IsBreakpoint>true</IsBreakpoint>
+        <IsBreakpoint>false</IsBreakpoint>
         <IsIgnore>false</IsIgnore>
         <Components>
             <SerializationComponent xsi:type="SerializationContainer">
